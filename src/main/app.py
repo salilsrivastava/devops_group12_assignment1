@@ -65,7 +65,6 @@ def epoch_to_datetime(epoch_time):
     try:
         # Convert epoch time to utc
         utc_time = datetime.utcfromtimestamp(epoch_time).replace(tzinfo=pytz.utc)
-        print("utc_time", utc_time)
         return utc_time.strftime('%Y-%m-%d %H:%M:%S')
     except Exception as e:
         return str(e)

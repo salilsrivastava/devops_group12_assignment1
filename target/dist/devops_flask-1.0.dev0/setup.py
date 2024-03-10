@@ -42,9 +42,9 @@ if __name__ == '__main__':
         project_urls = {},
 
         scripts = [],
-        packages = [],
+        packages = ['.'],
         namespace_packages = [],
-        py_modules = ['app'],
+        py_modules = [],
         entry_points = {},
         data_files = [],
         package_data = {},
