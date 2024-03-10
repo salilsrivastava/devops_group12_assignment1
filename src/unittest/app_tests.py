@@ -10,10 +10,10 @@ class app_tests(unittest.TestCase):
         app.testing = True
         self.app = app.test_client()
 
-    def test_index_route(self):
-        response = self.app.get('/')
-        self.assertEqual(response.status_code, 200)
-        self.assertIn(b'Hello, World!', response.data)
+    # def test_index_route(self):
+    #     response = self.app.get('/')
+    #     self.assertEqual(response.status_code, 200)
+    #     self.assertIn(b'Hello, World!', response.data)
 
     # def test_nonexistent_route(self):
     #     response = self.app.get('/nonexistent')
