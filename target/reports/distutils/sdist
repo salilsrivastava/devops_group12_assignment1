@@ -1,7 +1,8 @@
+WARNING: '.' not a valid package name; please use only .-separated package names in setup.py
 running clean
 'build\lib' does not exist -- can't clean it
 'build\bdist.win-amd64' does not exist -- can't clean it
-'build\scripts-3.9' does not exist -- can't clean it
+'build\scripts-3.11' does not exist -- can't clean it
 running sdist
 running egg_info
 creating devops_flask.egg-info
@@ -18,6 +19,7 @@ running check
 creating devops_flask-1.0.dev0
 creating devops_flask-1.0.dev0\devops_flask.egg-info
 copying files to devops_flask-1.0.dev0...
+copying __init__.py -> devops_flask-1.0.dev0
 copying app.py -> devops_flask-1.0.dev0
 copying setup.py -> devops_flask-1.0.dev0
 copying devops_flask.egg-info\PKG-INFO -> devops_flask-1.0.dev0\devops_flask.egg-info
