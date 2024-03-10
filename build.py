@@ -15,5 +15,5 @@ default_task = "publish"
 @init
 def set_properties(project):
     project.build_depends_on("flask")
-    project.set_property("dir_source_main_python", "src/main/python")
-    project.set_property("dir_source_unittest_python", "src/unittest/python")
+    project.set_property("dir_source_main_python", "src/main")
+    project.set_property("dir_source_unittest_python", "src/unittest")
