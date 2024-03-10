@@ -1,0 +1,33 @@
+running clean
+'build\lib' does not exist -- can't clean it
+'build\bdist.win-amd64' does not exist -- can't clean it
+'build\scripts-3.9' does not exist -- can't clean it
+running sdist
+running egg_info
+creating devops_flask.egg-info
+writing devops_flask.egg-info\PKG-INFO
+writing dependency_links to devops_flask.egg-info\dependency_links.txt
+writing namespace_packages to devops_flask.egg-info\namespace_packages.txt
+writing top-level names to devops_flask.egg-info\top_level.txt
+writing manifest file 'devops_flask.egg-info\SOURCES.txt'
+reading manifest file 'devops_flask.egg-info\SOURCES.txt'
+writing manifest file 'devops_flask.egg-info\SOURCES.txt'
+warning: sdist: standard file not found: should have one of README, README.rst, README.txt, README.md
+
+running check
+creating devops_flask-1.0.dev0
+creating devops_flask-1.0.dev0\devops_flask.egg-info
+copying files to devops_flask-1.0.dev0...
+copying app.py -> devops_flask-1.0.dev0
+copying setup.py -> devops_flask-1.0.dev0
+copying devops_flask.egg-info\PKG-INFO -> devops_flask-1.0.dev0\devops_flask.egg-info
+copying devops_flask.egg-info\SOURCES.txt -> devops_flask-1.0.dev0\devops_flask.egg-info
+copying devops_flask.egg-info\dependency_links.txt -> devops_flask-1.0.dev0\devops_flask.egg-info
+copying devops_flask.egg-info\namespace_packages.txt -> devops_flask-1.0.dev0\devops_flask.egg-info
+copying devops_flask.egg-info\top_level.txt -> devops_flask-1.0.dev0\devops_flask.egg-info
+copying devops_flask.egg-info\zip-safe -> devops_flask-1.0.dev0\devops_flask.egg-info
+copying devops_flask.egg-info\SOURCES.txt -> devops_flask-1.0.dev0\devops_flask.egg-info
+Writing devops_flask-1.0.dev0\setup.cfg
+creating dist
+Creating tar archive
+removing 'devops_flask-1.0.dev0' (and everything under it)

@@ -1,0 +1,35 @@
+Collecting flask
+  Using cached flask-3.0.2-py3-none-any.whl.metadata (3.6 kB)
+Collecting Werkzeug>=3.0.0 (from flask)
+  Using cached werkzeug-3.0.1-py3-none-any.whl.metadata (4.1 kB)
+Collecting Jinja2>=3.1.2 (from flask)
+  Using cached Jinja2-3.1.3-py3-none-any.whl.metadata (3.3 kB)
+Collecting itsdangerous>=2.1.2 (from flask)
+  Using cached itsdangerous-2.1.2-py3-none-any.whl.metadata (2.9 kB)
+Collecting click>=8.1.3 (from flask)
+  Using cached click-8.1.7-py3-none-any.whl.metadata (3.0 kB)
+Collecting blinker>=1.6.2 (from flask)
+  Using cached blinker-1.7.0-py3-none-any.whl.metadata (1.9 kB)
+Collecting importlib-metadata>=3.6.0 (from flask)
+  Using cached importlib_metadata-7.0.2-py3-none-any.whl.metadata (4.6 kB)
+Collecting colorama (from click>=8.1.3->flask)
+  Using cached colorama-0.4.6-py2.py3-none-any.whl.metadata (17 kB)
+Collecting zipp>=0.5 (from importlib-metadata>=3.6.0->flask)
+  Using cached zipp-3.17.0-py3-none-any.whl.metadata (3.7 kB)
+Collecting MarkupSafe>=2.0 (from Jinja2>=3.1.2->flask)
+  Using cached MarkupSafe-2.1.5-cp39-cp39-win_amd64.whl.metadata (3.1 kB)
+Using cached flask-3.0.2-py3-none-any.whl (101 kB)
+Using cached blinker-1.7.0-py3-none-any.whl (13 kB)
+Using cached click-8.1.7-py3-none-any.whl (97 kB)
+Using cached importlib_metadata-7.0.2-py3-none-any.whl (24 kB)
+Using cached itsdangerous-2.1.2-py3-none-any.whl (15 kB)
+Using cached Jinja2-3.1.3-py3-none-any.whl (133 kB)
+Using cached werkzeug-3.0.1-py3-none-any.whl (226 kB)
+Using cached MarkupSafe-2.1.5-cp39-cp39-win_amd64.whl (17 kB)
+Using cached zipp-3.17.0-py3-none-any.whl (7.4 kB)
+Using cached colorama-0.4.6-py2.py3-none-any.whl (25 kB)
+Installing collected packages: zipp, MarkupSafe, itsdangerous, colorama, blinker, Werkzeug, Jinja2, importlib-metadata, click, flask
+Successfully installed Jinja2-3.1.3 MarkupSafe-2.1.5 Werkzeug-3.0.1 blinker-1.7.0 click-8.1.7 colorama-0.4.6 flask-3.0.2 importlib-metadata-7.0.2 itsdangerous-2.1.2 zipp-3.17.0
+
+[notice] A new release of pip is available: 23.3.1 -> 24.0
+[notice] To update, run: python.exe -m pip install --upgrade pip

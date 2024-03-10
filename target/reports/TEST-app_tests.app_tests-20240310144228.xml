@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="app_tests.app_tests-20240310144228" tests="5" file="app_tests.py" time="0.058" timestamp="2024-03-10T14:42:30" failures="0" errors="0" skipped="0">
+	<testcase classname="app_tests.app_tests" name="test_convert_epoch_to_datetime" time="0.043" timestamp="2024-03-10T14:42:30"/>
+	<testcase classname="app_tests.app_tests" name="test_index_route" time="0.003" timestamp="2024-03-10T14:42:30"/>
+	<testcase classname="app_tests.app_tests" name="test_invalid_epoch_parameter" time="0.003" timestamp="2024-03-10T14:42:30"/>
+	<testcase classname="app_tests.app_tests" name="test_missing_epoch_parameter" time="0.003" timestamp="2024-03-10T14:42:30"/>
+	<testcase classname="app_tests.app_tests" name="test_nonexistent_route" time="0.006" timestamp="2024-03-10T14:42:30"/>
+</testsuite>

@@ -1,0 +1,8 @@
+app.py
+setup.py
+devops_flask.egg-info/PKG-INFO
+devops_flask.egg-info/SOURCES.txt
+devops_flask.egg-info/dependency_links.txt
+devops_flask.egg-info/namespace_packages.txt
+devops_flask.egg-info/top_level.txt
+devops_flask.egg-info/zip-safe
